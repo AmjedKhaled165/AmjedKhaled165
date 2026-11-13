@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Amjed Khaled 👋</h1>
+  <h1>Hi there, I'm Amjed Khaled </h1>
   <h3>AI, Computer Vision & Full-Stack Software Developer | Mechatronics Engineering</h3>
   
   <p>
@@ -12,15 +12,15 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 **Mechatronics Engineering** student at **Assiut University** (AI & Data Science Diploma graduate).
-- 🤖 Building end-to-end **Computer Vision**, **Deep Learning**, and **Robotics/IoT** systems.
-- 💻 Developing scalable **Full-Stack Web & Mobile** platforms with real-time capabilities.
-- ⚡ Experienced in **AI-Assisted Engineering** & automated CI/CD workflows.
+###  About Me
+-  **Mechatronics Engineering** student at **Assiut University** (AI & Data Science Diploma graduate).
+-  Building end-to-end **Computer Vision**, **Deep Learning**, and **Robotics/IoT** systems.
+-  Developing scalable **Full-Stack Web & Mobile** platforms with real-time capabilities.
+-  Experienced in **AI-Assisted Engineering** & automated CI/CD workflows.
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **AI, Computer Vision & Robotics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 - **[Qareeblak](https://github.com/AmjedKhaled165/Qareeblak)** — Unified full-stack service marketplace & real-time delivery platform (`Node.js`, `Next.js`, `React Native`, `Socket.io`, `PostgreSQL`).
 - **[Oryx (Stock M8)](https://github.com/AmjedKhaled165/Oryx)** — Real-time retail shelf empty-space detection & inventory monitoring using `YOLOv10` and `OpenCV`.
 - **[Flask Image Processing](https://github.com/AmjedKhaled165/Flask_Image-Processing)** — Full-stack web app for secure image manipulation & cloud storage (`Python`, `Flask`, `MongoDB`).
