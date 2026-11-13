@@ -53,5 +53,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=AmjedKhaled165&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AmjedKhaled165&theme=tokyonight" height="165" />
+  <img src="https://quickchart.io/chart?w=380&h=190&bkg=%231a1b27&c=%7B%22type%22%3A%22doughnut%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22Python%22%2C%22JavaScript%22%2C%22TypeScript%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B48%2C30%2C22%5D%2C%22backgroundColor%22%3A%5B%22%233572A5%22%2C%22%23f1e05a%22%2C%22%233178c6%22%5D%2C%22borderColor%22%3A%22%231a1b27%22%2C%22borderWidth%22%3A3%7D%5D%7D%2C%22options%22%3A%7B%22cutoutPercentage%22%3A68%2C%22title%22%3A%7B%22display%22%3Atrue%2C%22text%22%3A%22Top%20Languages%22%2C%22fontColor%22%3A%22%2370a5fd%22%2C%22fontSize%22%3A18%2C%22fontFamily%22%3A%22sans-serif%22%7D%2C%22legend%22%3A%7B%22position%22%3A%22left%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%2338bdae%22%2C%22fontSize%22%3A13%2C%22boxWidth%22%3A12%7D%7D%7D%7D" height="165" />
 </div>
