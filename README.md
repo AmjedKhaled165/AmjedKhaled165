@@ -26,8 +26,8 @@ Mechatronics Engineering student specializing in applied Computer Vision, Roboti
   *Stack: Next.js, Node.js, Express, React Native (Expo), Socket.io, PostgreSQL*
 
 - **[Oryx (Stock M8)](https://github.com/AmjedKhaled165/Oryx)**  
-  Autonomous retail inventory monitoring and empty-shelf detection system combining custom YOLOv10 models with Arduino motor rail hardware and real-time spatial analysis.  
-  *Stack: YOLOv10, OpenCV, Python, Arduino C++, Roboflow*
+  Autonomous retail inventory monitoring and empty-shelf detection system combining custom YOLO models with Arduino motor rail hardware and real-time spatial analysis.  
+  *Stack: YOLO, OpenCV, Python, Arduino C++, Roboflow*
 
 - **[ShadowDesk](https://github.com/AmjedKhaled165/ShadowDesk)**  
   Systems-level Windows desktop utility for real-time window cloaking and privacy during full-screen sharing sessions using native Desktop Window Manager exclusion APIs.  
@@ -47,7 +47,7 @@ Mechatronics Engineering student specializing in applied Computer Vision, Roboti
 
 ### AI, Computer Vision & Robotics
 - **Languages & Frameworks**: Python, C++, Rust, PyTorch, TensorFlow, Keras
-- **Vision & Detection**: OpenCV, YOLOv10, Ultralytics, PIL / Pillow, dlib
+- **Vision & Detection**: OpenCV, YOLO, Ultralytics, PIL / Pillow, dlib
 - **Hardware & Embedded**: Arduino, Raspberry Pi, Sensor Integration, Motor Control
 
 ### Full-Stack, Databases & Systems
